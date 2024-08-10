@@ -107,7 +107,7 @@ nav ul li a::after{
     transition: 0.5s;
 }
 .head{
-    background: url(/img/R.jpg);
+    background: url(./img/R.jpg);
     background-color: rgb(20, 20, 170);
     background-position: center;
     background-blend-mode: darken;
@@ -181,7 +181,7 @@ nav ul li a:hover{
     /* background: linear-gradient( to left, hsl(0, 11%, 87%), #fff ); */
     /* background: #EEF7FF; */
     /* background: linear-gradient(-120deg, lightblue, rgb(17, 17, 44, 0.507)); */
-    background:url(/img/R.jpg);
+    background:url(./img/R.jpg);
     /* background: lightblue; */
     background-color: rgb(20, 20, 170);
     background-position: center;
@@ -243,7 +243,7 @@ nav ul li a:hover{
 }
 .founder{
     padding-bottom: 50px;
-    background: url(/img/currency.png);
+    background: url(./img/currency.png);
     background-color: rgb(16, 16, 199);
     background-blend-mode: darken;
     background-repeat: no-repeat;
@@ -324,7 +324,7 @@ nav ul li a:hover{
     display: block;
 }.mission{
 
-    background: url(/img/bimg.webp);
+    background: url(./img/bimg.webp);
     background-position: center;
     background-size: cover;
     background-color: rgb(11, 11, 110);
@@ -363,7 +363,7 @@ nav ul li a:hover{
     box-shadow: silver ;
 }
 .prog{
-    background: url(/img/bimg.webp);
+    background: url(./img/bimg.webp);
     padding: 70px 0;
     background-position: center;
     background-repeat: no-repeat;
@@ -428,7 +428,7 @@ nav ul li a:hover{
 
 }
 .team{
-    background: url(/img/bimg.webp);
+    background: url(./img/bimg.webp);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
