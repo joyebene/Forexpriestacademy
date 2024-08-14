@@ -19,11 +19,11 @@ html{
     font-size: 20px;
 }
 .nav-bar button{
-    font-size: 35px;
-    padding: 5px 10px;
-    color: #FFF;
-    background-color: black;
+    font-size: 30px;
+    padding: 3px 6px;
     border: none;
+    color: rgb(207, 152, 11);
+    background-color: black;
    
 }
 .nav-bar ul{
