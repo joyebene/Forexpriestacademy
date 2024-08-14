@@ -62,7 +62,7 @@ nav{
     box-shadow: 2px 2px 2px navy;
 }
 nav button{
-    padding: 5px 10px;
+    padding: 3px 6px;
     display: none;
 
 }
@@ -653,7 +653,6 @@ nav ul li a:hover{
         font-size: 25px;
         color: rgb(207, 152, 11);
         background-color: black;
-        padding: 3px 6px;
         transition: all 0.5s;
     }
     nav button{
