@@ -651,8 +651,9 @@ nav ul li a:hover{
     nav .nav-btn2 i{
         cursor: pointer;
         font-size: 25px;
-        /* color: #FFF; */
-        padding: 5px 10px;
+        color: rgb(207, 152, 11);
+        background-color: black;
+        padding: 3px 6px;
         transition: all 0.5s;
     }
     nav button{
